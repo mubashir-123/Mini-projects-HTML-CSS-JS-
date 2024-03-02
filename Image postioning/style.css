@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f7f7f7;
+}
+.img-belt{
+    display: flex;
+    justify-content: center;
+}
+.img-belt img{
+    width: 70%;
+    height: 50%;
+    border: none;
+}
+.main{
+    position: relative;
+}
+
+.icon{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4%;
+    margin-top: 60px;
+}
+.icon img{
+     height: auto;
+     width: 6%; 
+}
+
+.icon #icon1:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    content: url('hover-icon1.jpeg');
+}
+
+.icon #icon2:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    content: url('hover-icon1.jpeg');
+}
+
+.icon #icon3:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    content: url('hover-icon1.jpeg');
+}
+
+.icon #icon3:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    content: url('hover-icon1.jpeg');
+}
+
+.icon #icon4:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    content: url('hover-icon1.jpeg');
+}
+
+.icon #icon5:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    content: url('hover-icon1.jpeg');
+}
+
+.icon #icon6:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    content: url('hover-icon1.jpeg');
+}
+
+.icon #icon7:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    content: url('hover-icon1.jpeg');
+}
+
+.icon #icon8:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    content: url('hover-icon1.jpeg');
+}
